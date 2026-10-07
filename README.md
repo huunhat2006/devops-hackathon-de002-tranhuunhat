@@ -18,8 +18,9 @@ devops-hackathon-de002-tranhuunhat/
 |-nginx/
 ||----huunhat.conf
 |-screenshots/
-||----website.png
-||----update.png
+||----04-website.png
+||----05-git-log.png
+||----06-update.png
 |-.gitignore
 |-README.md
 
